@@ -99,16 +99,13 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "",
-        href: ""
+        title: "学生开源年会",
+        href: "https://sosconf.org"
     },{
-        title: "",
-        href: ""
+        title: "2020中文学生开源年会",
+        href: "https://2020zh.sosconf.org"
     },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "电子科技大学Linux用户组",
+        href: "https://uestclug.org"
     }
 ]
